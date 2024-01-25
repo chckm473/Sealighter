@@ -33,12 +33,12 @@ The file is in JSON. An example config file looks like this:
                     ]
                 }
             ]
-        },
+        }
     ],
     "kernel_traces": [
         {
             "trace_name": "kernel_proc_trace",
-            "provider_name": "process",
+            "provider_name": "process"
         }
     ]
 }
